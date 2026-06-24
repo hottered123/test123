@@ -1,1 +1,2 @@
 asdasdasda
+    print("wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY");
